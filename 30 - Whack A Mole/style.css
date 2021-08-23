@@ -8,6 +8,8 @@ html {
   box-sizing: inherit;
 }
 
+
+
 body {
   padding: 0;
   margin: 0;
@@ -19,6 +21,19 @@ h1 {
   font-size: 10rem;
   line-height: 1;
   margin-bottom: 0;
+}
+
+button {
+  background-color: #555555;
+  border:yellow;
+  color: #ffc600;
+  padding: 15px 32px;
+  font-size: 30px;
+}
+
+.align-right {
+  margin-top: 50px;
+  text-align: center;
 }
 
 .score {
